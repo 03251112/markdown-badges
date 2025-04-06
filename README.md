@@ -3,10 +3,12 @@
 ## 编程语言
 
 <p>
-[![JavaScript](https://markbadge.com/static/JavaScript?logo=javascript&logoColor=F7DF1E&leftbg=323330&rightbg=323330&rightColor=white)](https://markbadge.com/static/JavaScript?logo=javascript&logoColor=F7DF1E&leftbg=323330&rightbg=323330&rightColor=white)
+  <a href="https://markbadge.com/static/JavaScript?logo=javascript&logoColor=F7DF1E&leftbg=323330&rightbg=323330&rightColor=white" target="_blank">
+  	<img src="https://markbadge.com/static/JavaScript?logo=javascript&logoColor=F7DF1E&leftbg=323330&rightbg=323330&rightColor=white"/>
+  </a>
 </p>
 
-​	[![JavaScript](https://markbadge.com/static/JavaScript?logo=javascript&logoColor=F7DF1E&leftbg=323330&rightbg=323330&rightColor=white)](https://markbadge.com/static/JavaScript?logo=javascript&logoColor=F7DF1E&leftbg=323330&rightbg=323330&rightColor=white)
+![JavaScript](https://markbadge.com/static/JavaScript?logo=javascript&logoColor=F7DF1E&leftbg=323330&rightbg=323330&rightColor=white)
 ![TypeScript](https://markbadge.com/static/TypeScript/v5.0?logo=typescript&logoColor=white&leftbg=3178C6&rightbg=3178C6)
 ![Python](https://markbadge.com/static/Python/3.11?logo=python&logoColor=white&leftbg=3776AB&rightbg=3776AB&rightColor=white)
 ![Java](https://markbadge.com/static/Java/17?logo=openjdk&logoColor=white&leftbg=ED8B00&rightbg=ED8B00)
