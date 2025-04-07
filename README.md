@@ -118,7 +118,6 @@
 ## 云服务
 
 ![AWS](https://markbadge.com/static/AWS?logo=amazonwebservices&logoColor=white&leftbg=232F3E&rightbg=FF9900&rightColor=232F3E)
-![Azure](https://markbadge.com/static/Azure/Cloud?logo=microsoftazure&logoColor=white&leftbg=0078D4&rightbg=0078D4)
 ![Google Cloud](https://markbadge.com/static/Google%20Cloud?logo=googlecloud&logoColor=white&leftbg=4285F4&rightbg=4285F4)
 ![Heroku](https://markbadge.com/static/Heroku?logo=heroku&logoColor=white&leftbg=430098&rightbg=430098)
 ![Vercel](https://markbadge.com/static/Vercel?logo=vercel&logoColor=white&leftbg=000000&rightbg=000000)
@@ -213,8 +212,6 @@
 ![Ethereum](https://markbadge.com/static/Ethereum?logo=ethereum&logoColor=white&leftbg=3C3C3D&rightbg=3C3C3D)
 ![Solidity](https://markbadge.com/static/Solidity?logo=solidity&logoColor=white&leftbg=363636&rightbg=363636)
 ![Web3.js](https://markbadge.com/static/Web3.js?logo=web3dotjs&logoColor=white&leftbg=F16822&rightbg=F16822)
-![Hardhat](https://markbadge.com/static/Hardhat?logo=hardhat&logoColor=white&leftbg=FFF100&rightbg=FFF100&rightColor=333333)
-![Truffle](https://markbadge.com/static/Truffle?logo=truffle&logoColor=white&leftbg=3FE0C5&rightbg=3FE0C5&rightColor=333333)
 ![Polygon](https://markbadge.com/static/Polygon?logo=polygon&logoColor=white&leftbg=7B3FE4&rightbg=7B3FE4)
 ![Solana](https://markbadge.com/static/Solana?logo=solana&logoColor=white&leftbg=9945FF&rightbg=9945FF)
 
@@ -246,7 +243,7 @@
 ![RabbitMQ](https://markbadge.com/static/RabbitMQ?logo=rabbitmq&logoColor=white&leftbg=FF6600&rightbg=FF6600)
 ![Apache Kafka](https://markbadge.com/static/Apache_Kafka?logo=apachekafka&logoColor=white&leftbg=231F20&rightbg=231F20)
 ![MQTT](https://markbadge.com/static/MQTT?logo=mqtt&logoColor=white&leftbg=660066&rightbg=660066)
-![NATS](https://markbadge.com/static/NATS?logo=nats&logoColor=white&leftbg=27AAE1&rightbg=27AAE1)
+![NATS](https://markbadge.com/static/NATS?logo=natsdotio&logoColor=white&leftbg=27AAE1&rightbg=27AAE1)
 
 ## 游戏开发
 
@@ -254,13 +251,12 @@
 ![Unreal Engine](https://markbadge.com/static/Unreal_Engine?logo=unrealengine&logoColor=white&leftbg=0E1128&rightbg=0E1128)
 ![Godot](https://markbadge.com/static/Godot?logo=godotengine&logoColor=white&leftbg=478CBF&rightbg=478CBF)
 ![PlayCanvas](https://markbadge.com/static/PlayCanvas?logo=playcanvas&logoColor=white&leftbg=E05F2C&rightbg=E05F2C)
-![Phaser](https://markbadge.com/static/Phaser?logo=phaser&logoColor=white&leftbg=8AC149&rightbg=8AC149)
+
 ![Cocos](https://markbadge.com/static/Cocos?logo=cocos&logoColor=white&leftbg=55C2E1&rightbg=55C2E1)
 
 ## 低代码/无代码平台
 
 ![Webflow](https://markbadge.com/static/Webflow?logo=webflow&logoColor=white&leftbg=4353FF&rightbg=4353FF)
-![Bubble](https://markbadge.com/static/Bubble?logo=bubble&logoColor=white&leftbg=000000&rightbg=000000)
 ![Airtable](https://markbadge.com/static/Airtable?logo=airtable&logoColor=white&leftbg=18BFFF&rightbg=18BFFF)
 ![Retool](https://markbadge.com/static/Retool?logo=retool&logoColor=white&leftbg=3EB7F0&rightbg=3EB7F0)
 ![Zapier](https://markbadge.com/static/Zapier?logo=zapier&logoColor=white&leftbg=FF4A00&rightbg=FF4A00)
