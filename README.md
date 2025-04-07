@@ -87,11 +87,10 @@
 
 ## IDE/编辑器
 
-![Visual Studio Code](https://markbadge.com/static/VS_Code/1.78?logo=visualstudiocode&logoColor=white&leftbg=007ACC&rightbg=007ACC)
+
 ![IntelliJ IDEA](https://markbadge.com/static/IntelliJ%20IDEA/2023.1?logo=intellijidea&logoColor=white&leftbg=000000&rightbg=000000)
 ![PyCharm](https://markbadge.com/static/PyCharm?logo=pycharm&logoColor=white&leftbg=000000&rightbg=000000)
 ![WebStorm](https://markbadge.com/static/WebStorm?logo=webstorm&logoColor=white&leftbg=000000&rightbg=000000)
-![Visual Studio](https://markbadge.com/static/Visual_Studio?logo=visualstudio&logoColor=white&leftbg=5C2D91&rightbg=5C2D91)
 ![Xcode](https://markbadge.com/static/Xcode?logo=xcode&logoColor=white&leftbg=147EFB&rightbg=147EFB)
 ![Android Studio](https://markbadge.com/static/Android_Studio?logo=androidstudio&logoColor=white&leftbg=3DDC84&rightbg=3DDC84)
 ![Vim](https://markbadge.com/static/Vim?logo=vim&logoColor=white&leftbg=019733&rightbg=019733)
